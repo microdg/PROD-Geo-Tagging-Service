@@ -1,0 +1,22 @@
+New log file opened at Thu Apr 28 16:26:56 BST 2016 by 7412@DESKTOP-7UG7O8D
+Taking next connection to: 55368
+New client attempting to connect on port: 55369-55368
+  Address = /192.168.99.1:55368
+This client on port 55369 has uuid 46ddf60e-1a9d-45a2-a704-7d7b2e1cfbdf configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-46ddf60e-1a9d-45a2-a704-7d7b2e1cfbdf
+Taking next connection to: 55368
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 55368
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 55368
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 55368
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 7412@DESKTOP-7UG7O8D logs at Thu Apr 28 16:38:56 BST 2016, goodbye.
